@@ -1,0 +1,22 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.My-Image {
+  width: 150px;
+  border-radius: 10px;
+}
+.card {
+  margin: 50px auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  border-radius: 20px;
+  border-bottom: solid 7px #0d1b2a;
+  color: rgb(11, 11, 11) ;
+  background: #415a77;
+}
+
+.details {
+  text-align: center;
+}
